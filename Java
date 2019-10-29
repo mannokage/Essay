@@ -1,0 +1,3 @@
+JDK的基础配置
+JDKの基本構成
+JDK basic configuration
